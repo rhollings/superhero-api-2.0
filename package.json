@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/rhollings/superhero-api-2.0/issues"
   },
-  "homepage": "https://github.com/rhollings/superhero-api-2.0#readme"
+  "homepage": "https://github.com/rhollings/superhero-api-2.0#readme",
+  "dependencies": {
+    "json-server": "^0.16.2"
+  }
 }
